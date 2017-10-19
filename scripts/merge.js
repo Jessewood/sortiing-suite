@@ -1,5 +1,4 @@
 function mergeSort( array ) {
-  debugger;
   if (array.length <= 1) {
     return array;
   }
@@ -10,7 +9,6 @@ function mergeSort( array ) {
 }
 
 function merge( left, right ) {
-  debugger;
   let result = [];
   while ( left.length && right.length) {
     if( left[0] <= right[0]) {
