@@ -1,7 +1,7 @@
-const bubbleSort = require('./bubbleSort.js');
-const insertionSort = require('./insertionSort.js');
-const mergeSort = require('./mergeSort.js');
-const quickSort = require('./quickSort.js');
+const bubbleSort = require('./bubble.js');
+const insertionSort = require('./insertion.js');
+const mergeSort = require('./merge.js');
+const quickSort = require('./quick.js');
 
 module.exports = {
   bubbleSort,
