@@ -5,7 +5,7 @@ const quickSort = require('./quick.js');
 
 module.exports = {
   bubbleSort,
-  insertionSort;
-  mergeSort;
-  quickSort;
+  insertionSort,
+  mergeSort,
+  quickSort
 }
