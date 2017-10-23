@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import index from '../scripts/index'
+import index from '../index'
 
 describe('Example Test File', () => {
 })
